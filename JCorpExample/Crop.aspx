@@ -23,7 +23,7 @@
                 aspectRatio: iw / ih
             });
             $('#Submit').click(function() {
-                if ($('#W').val() == '0') {
+            if ($('#' + sContentId + 'W').val() == '0') {
                     alert('Bạn hãy chọn vùng ảnh cần cắt');
                     return false;
                 }
