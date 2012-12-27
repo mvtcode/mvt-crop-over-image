@@ -1,0 +1,10 @@
+D:\Project\JCorpExample\bin\JCorpExample.dll
+D:\Project\JCorpExample\bin\JCorpExample.pdb
+D:\Project\JCorpExample\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\JCorpExample\obj\Debug\JCorpExample.dll
+D:\Project\JCorpExample\obj\Debug\JCorpExample.pdb
+E:\Project\new new new\JCorpExample\bin\JCorpExample.dll
+E:\Project\new new new\JCorpExample\bin\JCorpExample.pdb
+E:\Project\new new new\JCorpExample\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\new new new\JCorpExample\obj\Debug\JCorpExample.dll
+E:\Project\new new new\JCorpExample\obj\Debug\JCorpExample.pdb
