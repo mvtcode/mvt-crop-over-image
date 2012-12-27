@@ -8,3 +8,8 @@ E:\Project\new new new\JCorpExample\bin\JCorpExample.pdb
 E:\Project\new new new\JCorpExample\obj\Debug\ResolveAssemblyReference.cache
 E:\Project\new new new\JCorpExample\obj\Debug\JCorpExample.dll
 E:\Project\new new new\JCorpExample\obj\Debug\JCorpExample.pdb
+D:\Project\mvt-crop-over-image\JCorpExample\bin\JCorpExample.dll
+D:\Project\mvt-crop-over-image\JCorpExample\bin\JCorpExample.pdb
+D:\Project\mvt-crop-over-image\JCorpExample\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\mvt-crop-over-image\JCorpExample\obj\Debug\JCorpExample.dll
+D:\Project\mvt-crop-over-image\JCorpExample\obj\Debug\JCorpExample.pdb

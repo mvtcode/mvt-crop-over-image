@@ -12,7 +12,7 @@ namespace JCorpExample
 {
 
 
-    public partial class Default
+    public partial class _out
     {
     }
 }

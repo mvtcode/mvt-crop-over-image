@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="JCorpExample.Site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="css/Site.css" rel="stylesheet" type="text/css" />
+
+    <script src="js/jquery.min.js" type="text/javascript"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                    MVT - Ghép ảnh online
+                </h1>
+            </div>
+            <div class="clear hideSkiplink">
+            </div>
+        </div>
+        <div class="main" style="text-align: center">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+    <div class="footer">
+        Copyright (R) MVT Version 2012 - YID: <a href="ymsgr:SendIm?trai_12a1?m=Em%20ch%C3%A0o%20anh%20MVT">trai_12a1</a> - Email: <a href="mailto:macvantan@gmail.com"> macvantan@gmail.com</a> - Facebook: <a href="http://www.facebook.com/macvantan">Mạc Văn Tân</a>
+    </div>
+    </form>
+</body>
+</html>
