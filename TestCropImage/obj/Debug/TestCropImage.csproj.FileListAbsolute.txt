@@ -1,5 +1,0 @@
-D:\Project\TestCropImage\obj\Debug\ResolveAssemblyReference.cache
-D:\Project\TestCropImage\bin\TestCropImage.dll
-D:\Project\TestCropImage\bin\TestCropImage.pdb
-D:\Project\TestCropImage\obj\Debug\TestCropImage.dll
-D:\Project\TestCropImage\obj\Debug\TestCropImage.pdb
